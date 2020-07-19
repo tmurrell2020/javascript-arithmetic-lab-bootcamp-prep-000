@@ -14,14 +14,10 @@ function divide() {
   5.0 / 2.5
 }
 
-var number = 10
-
-function increment(n) {
+function increment(number) {
   number += 1
 }
 
-return increment
-
-function decrement(n) {
+function decrement(number) {
   number -= 1
 }
