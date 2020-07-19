@@ -20,7 +20,7 @@ function increment(n) {
   number += 1
 }
 
-console.log(number)
+return increment
 
 function decrement(n) {
   number -= 1
