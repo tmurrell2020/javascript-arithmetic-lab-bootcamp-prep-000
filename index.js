@@ -14,30 +14,14 @@ function divide() {
   5.0 / 2.5
 }
 
-function addMore() {
- 3 + 7
+function add(a, b) {
+ a + b
 }
 
-function subtractMore() {
-  10 - 6
+function subtract(a, b) {
+  a - b
 }
 
-addMore()
+add(a, b)
 
-subtractMore()
-
-function increment(n) {
-  number += 1
-}
-
-function decrement(n) {
-  number -= 1
-}
-
-increment()
-
-console.log(number)
-
-decrement()
-
-console.log(number)
+subtract(a, b)
