@@ -14,19 +14,30 @@ function divide() {
   5.0 / 2.5
 }
 
-var n = 10
-function increment() {
-  n += 1
+function addMore() {
+ 3 + 7
 }
 
-function decrement() {
-  n -= 1
+function subtractMore() {
+  10 - 6
+}
+
+addMore()
+
+subtractMore()
+
+function increment(n) {
+  number += 1
+}
+
+function decrement(n) {
+  number -= 1
 }
 
 increment()
 
-console.log(n)
+console.log(number)
 
 decrement()
 
-console.log(n)
+console.log(number)
