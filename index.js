@@ -27,6 +27,6 @@ increment()
 
 console.log(n)
 
-decrement(n)
+decrement()
 
 console.log(n)
