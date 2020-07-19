@@ -20,6 +20,8 @@ function increment(n) {
   number += 1
 }
 
+console.log(number)
+
 function decrement(n) {
   number -= 1
 }
