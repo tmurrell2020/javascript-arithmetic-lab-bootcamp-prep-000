@@ -27,5 +27,5 @@ function mutiply(a, b)  {
 }
 
 function divide(a, b) {
-  function a / b;
+  return a / b;
 }
