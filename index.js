@@ -15,13 +15,9 @@ function divide() {
 }
 
 function add(a, b) {
- a + b
+ return a + b;
 }
 
 function subtract(a, b) {
-  a - b
+  return a - b;
 }
-
-add(a, b)
-
-subtract(a, b)
