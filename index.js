@@ -21,3 +21,11 @@ function add(a, b) {
 function subtract(a, b) {
   return a - b;
 }
+
+function mutiply(a, b)  {
+  return a * b;
+}
+
+function divide(a, b) {
+  function a / b;
+}
