@@ -15,14 +15,18 @@ function divide() {
 }
 
 var n = 10
-function increment(n) {
+function increment() {
   n += 1
 }
 
-function decrement(n) {
+function decrement() {
   n -= 1
 }
 
-increment(number)
+increment()
 
-decrement(number)
+console.log(n)
+
+decrement(n)
+
+console.log(n)
